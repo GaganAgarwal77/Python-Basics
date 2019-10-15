@@ -1,0 +1,5 @@
+names = ['Malcolm', 'Timon', 'Tintin', 'Bob']
+English = [10, 15, 11, 12]
+Maths = [9, 8,3, 1]
+DS = [10, 10, 10, 10]
+Physics = [5, 3, 1, 5]
